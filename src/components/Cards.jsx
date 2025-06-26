@@ -6,13 +6,13 @@ const Cards = ({ theme }) => {
             img: "shreya",
             title: "Crypto Trading Simulator",
             description: "Practice crypto trading using paper money.",
-            link: "#"
+            link: "https://crypto-frontend-khaki.vercel.app/"
         },
         {
             img: "nsc",
             title: "BVICAM NSC Website",
             description: "Website for BVICAM's National Students' Convention, facilitating event information.",
-            link: "#"
+            link: "https://bvicam-nsc-25.vercel.app/"
         },
         {
             img: "razorpay",
